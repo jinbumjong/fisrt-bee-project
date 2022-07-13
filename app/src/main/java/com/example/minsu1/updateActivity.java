@@ -1,5 +1,5 @@
 package com.example.minsu1;
-//dsafsdfasdf
+
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.graphics.Bitmap;
